@@ -1,0 +1,19 @@
+.navbar-header{
+    
+    background-color: red;
+    position:fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    background-color: rgb(245, 245, 245);
+    border-bottom: 1px solid rgb(231,231,231);
+    padding:5px 8px ;
+}
+.navbar-brand{
+    color:rgb(119,119,119);
+    text-decoration: none;
+    font-family: Open Sans,Arial;
+    font-size: 11px;
+    font-weight: 400;
+    
+}

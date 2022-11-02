@@ -1,0 +1,57 @@
+.sign-in{
+    
+    background-color: rgb(238,238,238);
+    padding:25px 35px;
+    height: 150px;
+    border-radius: 3px;
+}
+.submit{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.user-details-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.main{
+    display:grid;
+    grid-template-columns: 220px 1fr;
+}
+.user-details{
+    color:rgb(51,51,51);
+    display: inline-block;
+    font-size: 8px;
+}
+.ulink{
+    color: rgb(230,83,0);
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+.credentials{
+    font-size: 8px;
+    color:rgb(51,51,51);
+    margin-bottom: 5px;
+}
+.inputs{
+    height:10px;
+    width:95px;
+}
+.btnsubmit{
+    background-color: #2E1A46;
+    color:white;
+    border: none;
+    border-radius: 2px;
+    padding:6px 9px;
+    font-size: 10px;
+    font-family: Source Sans Pro,Arial;
+    margin-bottom: 7px;
+}
+.forgot{
+    color: rgb(230,83,0);
+    font-size: 8px;
+    margin-bottom: 6px;
+}

@@ -1,8 +1,8 @@
 .sign-in{
     
     background-color: rgb(238,238,238);
-    padding:25px 35px;
-    height: 150px;
+    padding:35px 45px;
+    height: 180px;
     border-radius: 3px;
 }
 .submit{
@@ -20,6 +20,7 @@
 .main{
     display:grid;
     grid-template-columns: 220px 1fr;
+    
 }
 .user-details{
     color:rgb(51,51,51);
@@ -28,7 +29,7 @@
 }
 .ulink{
     color: rgb(230,83,0);
-    font-size: 15px;
+    font-size: 24px;
     margin-bottom: 8px;
 }
 .credentials{
@@ -54,4 +55,10 @@
     color: rgb(230,83,0);
     font-size: 8px;
     margin-bottom: 6px;
+}
+
+.ujcovid{
+    margin-top: 135px; 
+    width:1000px; 
+    margin-left: 42.5px;
 }
